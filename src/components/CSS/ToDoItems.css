@@ -1,0 +1,25 @@
+.todoitems {
+  display: flex;
+  justify-content: space between;
+  padding: 16px 0px;
+  align-items: center;
+}
+.todoitems-container {
+  display: flex;
+}
+.todoitems-text {
+  padding-left: 16px;
+  color: #2c2b2a;
+  font-family: sans-serif;
+  font-size: 22px;
+  padding-top: 10px;
+  width: 350px;
+}
+.todoitems-crossicon {
+  cursor: pointer;
+  padding-right: 0px;
+  float: right;
+}
+img {
+  padding: 2px;
+}
